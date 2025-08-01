@@ -1,4 +1,4 @@
-Hey, i am *Dayana Araujo* and today in **_QA Shots_** i want to share quality software knowledge regarding a very usefull tool/cerimony that can elevate the confidence level of a release on production environments:
+Hey, i am **Dayana Araujo** and today in **_QA Shots_** i want to share quality software knowledge regarding a very usefull tool/cerimony that can elevate the confidence level of a release on production environments:
 
 ### 📚 Test Fest Guide  
 **What it is and its benefits:**  
@@ -27,4 +27,4 @@ During my journey at *Crossknowledge* and *Wiley*, I was able to prepare, facili
 
 ---
 
-
+Have you tried already Test Fest? Please, let's share experiences and please let me know if there is any question around it! 💖
