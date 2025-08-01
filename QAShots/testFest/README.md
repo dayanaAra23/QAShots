@@ -1,4 +1,4 @@
-Hey, i am Dayana and today in **_QA Shots_** i want to share quality software knowledge regarding a very usefull tool/cerimony that can elevate the confidence level of a release on production environments
+Hey, i am *Dayana Araujo* and today in **_QA Shots_** i want to share quality software knowledge regarding a very usefull tool/cerimony that can elevate the confidence level of a release on production environments:
 
 ### 📚 Test Fest Guide  
 **What it is and its benefits:**  
