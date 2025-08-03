@@ -13,11 +13,13 @@ This initiative promotes:
 ---
 
 ### ✅ Checklist to apply Test Fest:
-- ✔️ Stable version  
-- 🖥️ Prepared environment  
-- 📑 Defined test cases  
-- 🧪 Organized test session  
-- 📋 Session feedback recorded  
+- ✔️ Stable version: after functional and non-functional tests and QA sign offs, system should be deployed with **stable** version under test
+- 🖥️ Environment: any usernames, required data must be created and made available for testers prior to test fest session
+- 📑 Defined test cases: it is important to have high level scenarios available for testers in order to them to have a guindance, a start point for tests
+- 🧪 Organized test session:
+       - session should be a meeting time-boxed
+       - session can be splited into: explanation around sessions, system quick overview, quick overview feature, test execution, feedback round table
+- 📋 Session feedback recorded:  
 - 🕹️ Gamification elements for engagement  
 - 📣 Feedback for users and post-event follow-up  
 
