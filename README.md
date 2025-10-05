@@ -8,4 +8,4 @@ QAShots is a personal project focused on exploring and sharing software testing 
 
 Feel free to explore, contribute, or get inspired! 🚀
 
-👉 [Reach me out](https://www.linkedin.com/in/dayana-araujo-0b84b550/)
+👉 [Reach me out on Linkedin](https://www.linkedin.com/in/dayana-araujo-0b84b550/)
