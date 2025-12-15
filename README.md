@@ -5,6 +5,7 @@ QAShots is a personal project focused on exploring and sharing software testing 
 ## 📌 Featured Content
 
 - 🔍 [TestFest - Increasing collaboration and knowledge by testing](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/testFest)
+- 🔍 [TestFest - Rethinking Our Test Automation Strategy for a Legacy and Crucial Software](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/replacingIneficientSuite)
 
 Feel free to explore, contribute, or get inspired! 🚀
 
