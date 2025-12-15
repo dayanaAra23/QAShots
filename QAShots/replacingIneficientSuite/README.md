@@ -1,3 +1,5 @@
+Hey, i am Dayana Araujo and today in **QA Shots** i want to share how we swap to good test automation suite of a very sensitive software of Wiley
+
 # 📚Rethinking Our Test Automation Strategy for a Legacy and Crucial Software 
 
 For a long time, our team relied on a large automation suite:  
