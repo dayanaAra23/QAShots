@@ -1,4 +1,4 @@
-# Rethinking Our Test Automation Strategy for a Legacy and Crucial Software 
+# 📚Rethinking Our Test Automation Strategy for a Legacy and Crucial Software 
 
 For a long time, our team relied on a large automation suite:  
 - **1000+ tests** in total  
@@ -14,7 +14,7 @@ It became clear that the suite was not serving its purpose. Instead of accelerat
 
 ---
 
-## What We Changed  
+## 📚 What We Changed  
 
 I led an initiative to rethink our approach:  
 - **Prioritization of scenarios**: we focused on the most valuable paths instead of sheer quantity.  
@@ -27,7 +27,7 @@ Also team have worked on:
 
 ---
 
-## The Results  
+## 🚀 🚀 🚀The Results  
 
 - A leaner, faster pipeline. 300+ tests (we call core tests) are running now in 10 minutes.... 
 - Increased trust in automation by exercising api coverage x business rules
@@ -37,7 +37,7 @@ Also team have worked on:
 
 ---
 
- **Automation is not about numbers—it’s about impact**. A thousand tests that nobody trusts are worth less than a hundred that give the team confidence to ship.  
+ **🚀Automation is not about numbers—it’s about impact**. A thousand tests that nobody trusts are worth less than a hundred that give the team confidence to ship.  
 
 ---
 
