@@ -31,3 +31,7 @@ Hey, i am Dayana Araujo and today in QA Shots i want to share quality software k
    - Insights and *action points*  
 
 During my journey at Wiley, we have implemented this meeting because we want to get team to know product they were developing and since its implementation we can see the benefits when tracking production issues for last 6 month and verifying that nummber of critical incidents are decreasing month by month.. Why you dont give a chance?
+
+Please, let's share experience and please let me know if there is any question around it! 💖
+
+
