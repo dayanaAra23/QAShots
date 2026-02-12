@@ -8,7 +8,7 @@ QAShots is a personal project focused on exploring and sharing software testing 
 - 🔍 [TestFest - Increasing collaboration and knowledge by testing](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/testFest)
 
 **Exploratory testing**
-- 🔍 [API Exploratory testing](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/apiValidation.README.md)
+- 🔍 [Exploratory API Validation](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/apiValidation)
 
 **Test Automation**
 - 🔍 [Test Automation - Rethinking Our Test Automation Strategy for a Legacy and Crucial Software](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/replacingIneficientSuite)
