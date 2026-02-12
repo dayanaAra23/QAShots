@@ -1,7 +1,7 @@
 # 🌟 Exploratory / Functional API Validation
 
 Hello QA friends! 👋  
-Today I want to share some thoughts on **exploratory API validation**.  
+Today I want to share some thoughts on **exploratory / functional API validation**.  
 This is a checklist I often follow — simple, practical, and super useful in my daily work:
 
 ---
