@@ -1,7 +1,7 @@
-# 🌟 Exploratory / Functional API Validation
+# 🌟 Exploratory / Functional rest API Validation
 
 Hello QA friends! 👋  
-Today I want to share some thoughts on **exploratory / functional API validation**.  
+Today I want to share some thoughts on **exploratory / functional rest API validation**.  
 This is a checklist I often follow — simple, practical, and super useful in my daily work:
 
 ---
@@ -29,4 +29,4 @@ This is a checklist I often follow — simple, practical, and super useful in my
 
 ---
 
-✨ That’s my go-to roadmap for API validation and I hope you enjoy this content! 🚀
+✨ That’s my go-to roadmap for rest API validation and I hope you enjoy this content! 🚀
