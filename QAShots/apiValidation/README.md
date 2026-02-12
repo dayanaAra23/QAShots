@@ -29,4 +29,4 @@ This is a checklist I often follow — simple, practical, and super useful in my
 
 ---
 
-✨ That’s my go-to roadmap for exploratory API validation and I hope you enjoy this content! 🚀
+✨ That’s my go-to roadmap for API validation and I hope you enjoy this content! 🚀
