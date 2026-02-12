@@ -1,4 +1,4 @@
-# 🌟 Exploratory API Validation
+# 🌟 Exploratory / Functional API Validation
 
 Hello QA friends! 👋  
 Today I want to share some thoughts on **exploratory API validation**.  
