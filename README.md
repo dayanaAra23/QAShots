@@ -1,6 +1,8 @@
 ## 🚀 Test Automation Strategy: Is this a easy cake recipe?
 
-QAshots is a project focused on **best practices in testing**.  
+Imagine the following situation: you are hired as a quality assurance and need to start a new test automation from the 
+scratch? How would you proceed? I guess by choosing the framework, maybe doing a poc?...
+ 
 Instead of rushing into frameworks or writing code right away, I truly believe the most important step is to define a **solid strategy** first.  
 
 ### 🔍 What to Analyze Before Automating
