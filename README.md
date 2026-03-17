@@ -1,7 +1,7 @@
 ## 🚀 Test Automation Strategy: Is this a easy cake recipe?
 
 QAshots is a project focused on **best practices in testing**.  
-Instead of rushing into frameworks or writing code right away, we believe the most important step is to define a **solid strategy** first.  
+Instead of rushing into frameworks or writing code right away, I truly believe the most important step is to define a **solid strategy** first.  
 
 ### 🔍 What to Analyze Before Automating
 - **Existing coverage**: Are there unit tests for backend and frontend? What is the current coverage? Do they validate the system’s critical features?  
@@ -11,10 +11,11 @@ Instead of rushing into frameworks or writing code right away, we believe the mo
 
 ### ⚖️ Avoiding the Inverted Pyramid
 A common mistake is starting with dozens of UI tests, which often become **flaky**, unstable, and unreliable.  
-Our goal is to build a strong foundation with unit and integration tests first, ensuring confidence before moving to the UI layer.  
+Our goal is to build a strong foundation with unit and integration tests first, ensuring confidence before moving to the UI layer and 
+avoiding the famous "inverted pyramid"...
 
 ### 🛠️ Choosing the Right Tools
-Only after this analysis does it make sense to select the most suitable framework, such as:  
+Only after this analysis we can really define the most suitable framework, such as:  
 - **RestAssured** (API testing)  
 - **Selenium** (UI testing)  
 - **Cypress** (UI + integration)  
@@ -24,4 +25,4 @@ with CI/CD tools, reports... But let's talk about tools in the next article!
 
 ### 📌 Conclusion
 QAshots is about starting the right way: **strategy first, tools later**.  
-This approach helps avoid rework and ensures automation that truly adds value to the product.  
+This approach helps avoid rework and ensures automation that truly adds value to the product.
