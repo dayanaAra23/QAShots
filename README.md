@@ -12,6 +12,7 @@ QAShots is a personal project focused on exploring and sharing software testing 
 
 **Test Automation**
 - 🔍 [Test Automation - Rethinking Our Test Automation Strategy for a Legacy and Crucial Software](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/replacingIneficientSuite)
+- 🔍 [Test Automation Strategy]([https://github.com/dayanaAra23/QAShots/tree/main/QAShots/replacingIneficientSuite](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/testAutomationStrategyRecipe))
 
 Feel free to explore, contribute, or get inspired! 🚀
 
