@@ -1,4 +1,4 @@
-## 🚀 Test Automation Strategy: Where to start!
+## 🚀 Test Automation Strategy: Where to start?
 
 Imagine the following situation: you are hired as a quality assurance and need to start a new test automation from the
 scratch? How would you proceed? I guess by choosing the framework, maybe doing a poc?...
