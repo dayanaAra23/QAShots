@@ -1,4 +1,4 @@
-Hey, i am Dayana Araujo and today in **QA Shots** i want to share how we transitioned to trusted test automation suite of a sensitive software Wiley product
+Hey, i am Dayana Araujo and today in **QA Shots** i want to share how we transitioned to trusted test automation suite of a sensitive software product
 
 # 📚Rethinking Our Test Automation Strategy for a Legacy and Crucial Software 
 
