@@ -39,6 +39,7 @@ With integrations like **Confluence** and **Jira**, many of these metrics can be
 ---
 
 ## ✅ Key Takeaway
-I see that we (tech team) commonly focus on development, test and automation and dont look to quality metrics as often as needed  and that's 
-why i encorage all of us to start looking into it , baby steps firts and will see some spotlights that can provide more confidence in project decision making.
+I see that we (tech team) commonly focus only on development, test and automation and dont look to quality metrics as often as needed and that's 
+why i encorage all of us to start analysing it , baby steps first and will see some spotlights that can provide more confidence in project decision making. 
+The main ideia is to a mindset that we care about quality and we can measure it!
  
